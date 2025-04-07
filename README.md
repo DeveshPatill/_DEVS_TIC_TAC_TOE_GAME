@@ -38,7 +38,8 @@ TIC_TAC_TOE_GAME/ │ ├── index.html # Main HTML file with layout and butt
 
 ## 📸 Screenshot
 
-*(Insert screenshot of the game here if desired)*
+![Screenshot 2025-04-08 025009](https://github.com/user-attachments/assets/0db518d5-9d91-4a14-b548-87c9630966d2)
+![Screenshot 2025-04-08 025046](https://github.com/user-attachments/assets/383be61f-6c07-45c4-8adc-50831958ecbd)
 
 ---
 
